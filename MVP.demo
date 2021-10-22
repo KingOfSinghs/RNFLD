@@ -1,0 +1,13 @@
+Demo guide:
+
+Training model requires hours using a NVIDIA GPU with cuDNN support
+
+Instead test a pretrained model
+
+Models you can test : { Xception, InceptionV3, EfficientNetB0 }
+
+Run demo.py from terminal/cmd as demo.py {modelname}
+
+example:
+
+demo.py Xception
