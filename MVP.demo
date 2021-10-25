@@ -2,12 +2,11 @@ Demo guide:
 
 Training model requires hours using a NVIDIA GPU with cuDNN support
 
-Instead test a pretrained model
+Instead, check out our results ! !
 
-Models you can test : { Xception, InceptionV3, EfficientNetB0 }
+Different network architectures I'm using : Xception, InceptionV3, EfficientNetB0
 
-Run demo.py from terminal/cmd as demo.py {modelname}
+Log of all runs with metrics in RNFLD/csv/fit
 
-example:
+Best heatmaps included below:
 
-demo.py Xception
